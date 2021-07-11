@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">testgame</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="radiobutton2">RadioButton</string>
+    <string name="radiobutton3">RadioButton</string>
+    <string name="radiobutton4">RadioButton</string>
+    <string name="next">next</string>
+</resources>
